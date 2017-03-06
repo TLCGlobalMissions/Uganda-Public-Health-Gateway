@@ -1,6 +1,19 @@
 # 1SMILE, One Square Mile Infrastructure Leveraged for Emergencies
 
-The repo to contain the Public Health Science Gateway for Ugandans
+The repo to contain the Public Health Science Gateway for Uganda.
+
+## Abstract - Blackspot Detective application
+Boda-bodas have been dubbed Uganda's silent killers. Boda-bodas, the country's ubiquitous motorbike taxis, snake through gridlocked traffic, navigate potholed roads and provide much-needed employment for young people. They are also maiming and killing thousands every year, monopolising hospital budgets and wiping out livelihoods. Road accidents are the leading cause of disability and death of young people worldwide especially in developing economies.
+
+The 1SMILE initiative’s Blackspot Detective mobile application (BDA) enables first responders in highway communities who want to eliminate boda boda road accident deaths on the Northern Bypass highway of Kampala by reducing emergency response time from 90 to 10 minutes and brokering 1,000,000 smiles of beneficiaries in 1000 days. The BDA centres on strategic information on health architecture in 10 communities with the primary Access metric being 10 minutes response time from the local points of care thus contributing to the overall health system outcome of Responsiveness. The concept of Boda Boda Ambulances is used since they’re a relatively cheap and effective option for referral of patients in developing countries. Nineteen motorcycle ambulances can be bought for the price of one Toyota land cruiser car ambulance.
+
+The endpoint is the provision of definitive care within 10 minutes of impact. The three key milestones of our social promise are: launch 10 Ambulance Response Teams (ARTs) in 10 months; curate 100 value stories in 100 weeks; and create 1000 artefacts in 1000 days. Time-wise, head-injured patients must receive surgery within four hours of injury, while those with severe hemorrhage require surgical intervention within 20 minutes. The mortality rate triples for every 30-minute increase from time of injury to definitive care therefore, the first hour after injury will largely determine a critically-injured person’s chances for survival; or more specifically, the first golden fifteen minutes are a vital period.
+
+The Blackspot Detective targets the bystander mindset challenge that is prevalent among the Boda Boda riders by repurposing them into first responders; they become Blackspot Detective doing BlackOps that save lives. 
+The physical blackspot will be geo-referenced within a square mile grid manned by an ART and the app will warn commuters, drivers and riders about blackspots nearby and direct the first responders to nearby health facilities to seek medical assistance.  The App is hosted by the African Science Gateway e-infrastructure.  The proof of concept is the Northern bypass before rolling out all over Africa.
+There is therefore need to improve response time of the emergency health care system at three stations: the first responder at the last mile, the Emergency rooms at the Trauma Centres and at community-level where the survivor recovers with atleast 5 months of home-based care.
+
+
 ## Outline
 
 Hi people, you have finally arrived at the Uganda Portal for Public Health. Currently, we are focusing uppacking the concept of Safe Roads as a enabler of a Safe City (see UN Sustainable Development Goal #11 - Sustainable Cities and Communities). We have started with targetting the Boda Boda economy (motorbike transport) which employs so many young men (120,000 motorcycles in Kampala alone; Data available from Kampala Capital City Authority). The boda boda business could be Uganda’s second largest employer after agriculture. However, this is a worrying trend considering its low contribution to economic growth. 
@@ -11,11 +24,7 @@ However, with the increase of Boda Bodas has come the rise in boda boda related 
 Less than 6 percent of injury patients arrive by ambulance at Mulago national referral hospital. According to officials at Mulago Hospital, 30 percent of patients are lost at the causality ward out of the over 1000 patients received monthly. Injuries make up half of all the admissions in all hospitals countrywide. These range from accident victims, burns, gender based violence victims, animal bites, falls and drowning among others (Source:https://ugandaradionetwork.com/story/6-percent-of-patients-arrive-in-mulago-by-ambulance).Our use case is the 1SMILE project which stands for Square Mile Infrastructure Leveraged for Emergencies; it targets 'Boda Boda'; a local term for "commercial motorcycles".
 
 Our Value Proposition.
-For local first responders seeking to eliminate the Boda-Boda related accidents, 1SMILE is an uber for ambulance service for the 300,000 Boda Boda cyclists and their passengers to monitor the State of Care in Ambulances and Roads (SCAR) as last mile care infrastructure around accident blackspots in Kampala Capital City
-By repurposing 1000 'Good Samaritans' into a Community of Purpose for Blackspot Detectives organised in 100 ARTs (Ambulance Response Teams),
-Retasking 100 roadside Boda Boda parking stages as ARCs (Ambulance and Rescue Centres) through Guided Mastery of First Aid skills, and 
-Retooling 10 Boda Boda motorcycles into BBAs (Boda Boda Ambulances) to deliver paramedics to the accident site within 15 minutes from an ACE (Ambulance Centres of Excellence) on the European Union-funded Northern Bypass by December 2017.
-
+The 1SMILE initiative’s Blackspot Detective mobile application (BDA) enables first responders in highway communities who want to eliminate boda boda road accident deaths on the Northern Bypass highway of Kampala by reducing emergency response time from 90 to 10 minutes and brokering 1,000,000 smiles of beneficiaries in 1000 days.
 
 Using statistics from Mulago National Referral Hospital and World Health Organisation, we found that 
 Boda-Boda related accidents that are killing and maiming young people at a rate of 
