@@ -1,4 +1,4 @@
-# Uganda-Public-Health-Gateway
+# 1SMILE, One Square Mile Infrastructure Leveraged for Emergencies
 
 The repo to contain the Public Health Science Gateway for Ugandans
 ## Outline
